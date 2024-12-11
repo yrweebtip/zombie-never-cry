@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Praktek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D47C4C54-0CE8-2D88-72CA-46B9D2BDEA71}|Assembly-CSharp.csproj|d:\\praktek\\assets\\folder fps\\script\\flashilight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47C4C54-0CE8-2D88-72CA-46B9D2BDEA71}|Assembly-CSharp.csproj|solutionrelative:assets\\folder fps\\script\\flashilight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47C4C54-0CE8-2D88-72CA-46B9D2BDEA71}|Assembly-CSharp.csproj|D:\\Praktek\\assets\\folder fps\\script\\peluru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47C4C54-0CE8-2D88-72CA-46B9D2BDEA71}|Assembly-CSharp.csproj|solutionrelative:assets\\folder fps\\script\\peluru.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47C4C54-0CE8-2D88-72CA-46B9D2BDEA71}|Assembly-CSharp.csproj|D:\\Praktek\\assets\\folder fps\\script\\tembak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47C4C54-0CE8-2D88-72CA-46B9D2BDEA71}|Assembly-CSharp.csproj|solutionrelative:assets\\folder fps\\script\\tembak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47C4C54-0CE8-2D88-72CA-46B9D2BDEA71}|Assembly-CSharp.csproj|D:\\Praktek\\assets\\zombie\\zombiemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47C4C54-0CE8-2D88-72CA-46B9D2BDEA71}|Assembly-CSharp.csproj|solutionrelative:assets\\zombie\\zombiemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47C4C54-0CE8-2D88-72CA-46B9D2BDEA71}|Assembly-CSharp.csproj|D:\\Praktek\\assets\\folder fps\\script\\autolockmouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47C4C54-0CE8-2D88-72CA-46B9D2BDEA71}|Assembly-CSharp.csproj|solutionrelative:assets\\folder fps\\script\\autolockmouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47C4C54-0CE8-2D88-72CA-46B9D2BDEA71}|Assembly-CSharp.csproj|D:\\Praktek\\assets\\zombie\\zombiecollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47C4C54-0CE8-2D88-72CA-46B9D2BDEA71}|Assembly-CSharp.csproj|solutionrelative:assets\\zombie\\zombiecollider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47C4C54-0CE8-2D88-72CA-46B9D2BDEA71}|Assembly-CSharp.csproj|D:\\Praktek\\assets\\folder fps\\script\\efeksuarapecah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47C4C54-0CE8-2D88-72CA-46B9D2BDEA71}|Assembly-CSharp.csproj|solutionrelative:assets\\folder fps\\script\\efeksuarapecah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47C4C54-0CE8-2D88-72CA-46B9D2BDEA71}|Assembly-CSharp.csproj|D:\\Praktek\\assets\\triggersuarapecah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47C4C54-0CE8-2D88-72CA-46B9D2BDEA71}|Assembly-CSharp.csproj|solutionrelative:assets\\triggersuarapecah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47C4C54-0CE8-2D88-72CA-46B9D2BDEA71}|Assembly-CSharp.csproj|D:\\Praktek\\assets\\folder fps\\script\\managersuaratembak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47C4C54-0CE8-2D88-72CA-46B9D2BDEA71}|Assembly-CSharp.csproj|solutionrelative:assets\\folder fps\\script\\managersuaratembak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47C4C54-0CE8-2D88-72CA-46B9D2BDEA71}|Assembly-CSharp.csproj|D:\\Praktek\\assets\\folder fps\\script\\pecahincube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47C4C54-0CE8-2D88-72CA-46B9D2BDEA71}|Assembly-CSharp.csproj|solutionrelative:assets\\folder fps\\script\\pecahincube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D47C4C54-0CE8-2D88-72CA-46B9D2BDEA71}|Assembly-CSharp.csproj|D:\\Praktek\\assets\\folder fps\\script\\fpscamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D47C4C54-0CE8-2D88-72CA-46B9D2BDEA71}|Assembly-CSharp.csproj|solutionrelative:assets\\folder fps\\script\\fpscamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|N:\\Dev\u002B\\Praktek\\Assets\\Script\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "flashilight.cs",
+              "DocumentMoniker": "D:\\Praktek\\Assets\\Folder FPS\\Script\\flashilight.cs",
+              "RelativeDocumentMoniker": "Assets\\Folder FPS\\Script\\flashilight.cs",
+              "ToolTip": "D:\\Praktek\\Assets\\Folder FPS\\Script\\flashilight.cs",
+              "RelativeToolTip": "Assets\\Folder FPS\\Script\\flashilight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:59:44.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "efeksuarapecah.cs",
+              "DocumentMoniker": "D:\\Praktek\\Assets\\Folder FPS\\Script\\efeksuarapecah.cs",
+              "RelativeDocumentMoniker": "Assets\\Folder FPS\\Script\\efeksuarapecah.cs",
+              "ToolTip": "D:\\Praktek\\Assets\\Folder FPS\\Script\\efeksuarapecah.cs",
+              "RelativeToolTip": "Assets\\Folder FPS\\Script\\efeksuarapecah.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T02:47:21.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManagerSuaraTembak.cs",
+              "DocumentMoniker": "D:\\Praktek\\Assets\\Folder FPS\\Script\\ManagerSuaraTembak.cs",
+              "RelativeDocumentMoniker": "Assets\\Folder FPS\\Script\\ManagerSuaraTembak.cs",
+              "ToolTip": "D:\\Praktek\\Assets\\Folder FPS\\Script\\ManagerSuaraTembak.cs",
+              "RelativeToolTip": "Assets\\Folder FPS\\Script\\ManagerSuaraTembak.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T01:41:53.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "pecahincube.cs",
+              "DocumentMoniker": "D:\\Praktek\\Assets\\Folder FPS\\Script\\pecahincube.cs",
+              "RelativeDocumentMoniker": "Assets\\Folder FPS\\Script\\pecahincube.cs",
+              "ToolTip": "D:\\Praktek\\Assets\\Folder FPS\\Script\\pecahincube.cs",
+              "RelativeToolTip": "Assets\\Folder FPS\\Script\\pecahincube.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T02:15:32.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tembak.cs",
+              "DocumentMoniker": "D:\\Praktek\\Assets\\Folder FPS\\Script\\Tembak.cs",
+              "RelativeDocumentMoniker": "Assets\\Folder FPS\\Script\\Tembak.cs",
+              "ToolTip": "D:\\Praktek\\Assets\\Folder FPS\\Script\\Tembak.cs",
+              "RelativeToolTip": "Assets\\Folder FPS\\Script\\Tembak.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:08:45.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ZombieManager.cs",
+              "DocumentMoniker": "D:\\Praktek\\Assets\\zombie\\ZombieManager.cs",
+              "RelativeDocumentMoniker": "Assets\\zombie\\ZombieManager.cs",
+              "ToolTip": "D:\\Praktek\\Assets\\zombie\\ZombieManager.cs",
+              "RelativeToolTip": "Assets\\zombie\\ZombieManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:49:06.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Peluru.cs",
+              "DocumentMoniker": "D:\\Praktek\\Assets\\Folder FPS\\Script\\Peluru.cs",
+              "RelativeDocumentMoniker": "Assets\\Folder FPS\\Script\\Peluru.cs",
+              "ToolTip": "D:\\Praktek\\Assets\\Folder FPS\\Script\\Peluru.cs",
+              "RelativeToolTip": "Assets\\Folder FPS\\Script\\Peluru.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwCYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:19:51.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "triggersuarapecah.cs",
+              "DocumentMoniker": "D:\\Praktek\\Assets\\triggersuarapecah.cs",
+              "RelativeDocumentMoniker": "Assets\\triggersuarapecah.cs",
+              "ToolTip": "D:\\Praktek\\Assets\\triggersuarapecah.cs",
+              "RelativeToolTip": "Assets\\triggersuarapecah.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T03:00:26.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Autolockmouse.cs",
+              "DocumentMoniker": "D:\\Praktek\\Assets\\Folder FPS\\Script\\Autolockmouse.cs",
+              "RelativeDocumentMoniker": "Assets\\Folder FPS\\Script\\Autolockmouse.cs",
+              "ToolTip": "D:\\Praktek\\Assets\\Folder FPS\\Script\\Autolockmouse.cs",
+              "RelativeToolTip": "Assets\\Folder FPS\\Script\\Autolockmouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T01:10:43.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ZombieCollider.cs",
+              "DocumentMoniker": "D:\\Praktek\\Assets\\zombie\\ZombieCollider.cs",
+              "RelativeDocumentMoniker": "Assets\\zombie\\ZombieCollider.cs",
+              "ToolTip": "D:\\Praktek\\Assets\\zombie\\ZombieCollider.cs",
+              "RelativeToolTip": "Assets\\zombie\\ZombieCollider.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:02:11.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FPSCamera.cs",
+              "DocumentMoniker": "D:\\Praktek\\Assets\\Folder FPS\\Script\\FPSCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Folder FPS\\Script\\FPSCamera.cs",
+              "ToolTip": "D:\\Praktek\\Assets\\Folder FPS\\Script\\FPSCamera.cs",
+              "RelativeToolTip": "Assets\\Folder FPS\\Script\\FPSCamera.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:41:04.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "N:\\Dev\u002B\\Praktek\\Assets\\Script\\PlayerMovement.cs",
+              "ToolTip": "N:\\Dev\u002B\\Praktek\\Assets\\Script\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T07:10:38.484Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
